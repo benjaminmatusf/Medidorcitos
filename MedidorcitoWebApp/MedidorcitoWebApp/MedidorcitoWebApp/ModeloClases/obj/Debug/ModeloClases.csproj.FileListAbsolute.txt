@@ -1,0 +1,24 @@
+C:\Users\TI DiagnoPRO\source\repos\MedidorcitoWebApp\ModeloClases\bin\Debug\ModeloClases.dll
+C:\Users\TI DiagnoPRO\source\repos\MedidorcitoWebApp\ModeloClases\bin\Debug\ModeloClases.pdb
+C:\Users\TI DiagnoPRO\source\repos\MedidorcitoWebApp\ModeloClases\obj\Debug\ModeloClases.csproj.AssemblyReference.cache
+C:\Users\TI DiagnoPRO\source\repos\MedidorcitoWebApp\ModeloClases\obj\Debug\ModeloClases.csproj.CoreCompileInputs.cache
+C:\Users\TI DiagnoPRO\source\repos\MedidorcitoWebApp\ModeloClases\obj\Debug\ModeloClases.dll
+C:\Users\TI DiagnoPRO\source\repos\MedidorcitoWebApp\ModeloClases\obj\Debug\ModeloClases.pdb
+C:\Users\Benjamin\source\repos\MedidorcitoWebApp\ModeloClases\bin\Debug\ModeloClases.dll
+C:\Users\Benjamin\source\repos\MedidorcitoWebApp\ModeloClases\bin\Debug\ModeloClases.pdb
+C:\Users\Benjamin\source\repos\MedidorcitoWebApp\ModeloClases\obj\Debug\ModeloClases.csproj.AssemblyReference.cache
+C:\Users\Benjamin\source\repos\MedidorcitoWebApp\ModeloClases\obj\Debug\ModeloClases.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\repos\MedidorcitoWebApp\ModeloClases\obj\Debug\ModeloClases.dll
+C:\Users\Benjamin\source\repos\MedidorcitoWebApp\ModeloClases\obj\Debug\ModeloClases.pdb
+C:\Users\TI DiagnoPRO\source\repos\MedidorcitoWebAppRepo\MedidorcitoWebApp\ModeloClases\bin\Debug\ModeloClases.dll
+C:\Users\TI DiagnoPRO\source\repos\MedidorcitoWebAppRepo\MedidorcitoWebApp\ModeloClases\bin\Debug\ModeloClases.pdb
+C:\Users\TI DiagnoPRO\source\repos\MedidorcitoWebAppRepo\MedidorcitoWebApp\ModeloClases\obj\Debug\ModeloClases.csproj.AssemblyReference.cache
+C:\Users\TI DiagnoPRO\source\repos\MedidorcitoWebAppRepo\MedidorcitoWebApp\ModeloClases\obj\Debug\ModeloClases.csproj.CoreCompileInputs.cache
+C:\Users\TI DiagnoPRO\source\repos\MedidorcitoWebAppRepo\MedidorcitoWebApp\ModeloClases\obj\Debug\ModeloClases.dll
+C:\Users\TI DiagnoPRO\source\repos\MedidorcitoWebAppRepo\MedidorcitoWebApp\ModeloClases\obj\Debug\ModeloClases.pdb
+C:\Users\Benjamin\source\P3Last\MedidorcitoWebApp\ModeloClases\bin\Debug\ModeloClases.dll
+C:\Users\Benjamin\source\P3Last\MedidorcitoWebApp\ModeloClases\bin\Debug\ModeloClases.pdb
+C:\Users\Benjamin\source\P3Last\MedidorcitoWebApp\ModeloClases\obj\Debug\ModeloClases.csproj.AssemblyReference.cache
+C:\Users\Benjamin\source\P3Last\MedidorcitoWebApp\ModeloClases\obj\Debug\ModeloClases.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\P3Last\MedidorcitoWebApp\ModeloClases\obj\Debug\ModeloClases.dll
+C:\Users\Benjamin\source\P3Last\MedidorcitoWebApp\ModeloClases\obj\Debug\ModeloClases.pdb

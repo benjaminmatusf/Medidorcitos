@@ -1,0 +1,12 @@
+C:\Users\Benjamin\source\repos\MedidorcitoApp\MedidorcitoModel\bin\Debug\MedidorcitoModel.dll.config
+C:\Users\Benjamin\source\repos\MedidorcitoApp\MedidorcitoModel\bin\Debug\MedidorcitoModel.dll
+C:\Users\Benjamin\source\repos\MedidorcitoApp\MedidorcitoModel\bin\Debug\MedidorcitoModel.pdb
+C:\Users\Benjamin\source\repos\MedidorcitoApp\MedidorcitoModel\bin\Debug\EntityFramework.dll
+C:\Users\Benjamin\source\repos\MedidorcitoApp\MedidorcitoModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Benjamin\source\repos\MedidorcitoApp\MedidorcitoModel\bin\Debug\EntityFramework.xml
+C:\Users\Benjamin\source\repos\MedidorcitoApp\MedidorcitoModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Benjamin\source\repos\MedidorcitoApp\MedidorcitoModel\obj\Debug\MedidorcitoModel.csproj.AssemblyReference.cache
+C:\Users\Benjamin\source\repos\MedidorcitoApp\MedidorcitoModel\obj\Debug\MedidorcitoModel.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\repos\MedidorcitoApp\MedidorcitoModel\obj\Debug\MedidorcitoModel.csproj.CopyComplete
+C:\Users\Benjamin\source\repos\MedidorcitoApp\MedidorcitoModel\obj\Debug\MedidorcitoModel.dll
+C:\Users\Benjamin\source\repos\MedidorcitoApp\MedidorcitoModel\obj\Debug\MedidorcitoModel.pdb

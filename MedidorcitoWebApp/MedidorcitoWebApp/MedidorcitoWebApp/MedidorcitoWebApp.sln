@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedidorcitoWebApp", "MedidorcitoWebApp\MedidorcitoWebApp.csproj", "{7C28C0B6-A6C2-40E7-AE3D-FD681902152E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModeloClases", "ModeloClases\ModeloClases.csproj", "{BA2FA400-27D0-4777-AD89-9D06CF454DEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C28C0B6-A6C2-40E7-AE3D-FD681902152E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C28C0B6-A6C2-40E7-AE3D-FD681902152E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C28C0B6-A6C2-40E7-AE3D-FD681902152E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C28C0B6-A6C2-40E7-AE3D-FD681902152E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA2FA400-27D0-4777-AD89-9D06CF454DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2FA400-27D0-4777-AD89-9D06CF454DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2FA400-27D0-4777-AD89-9D06CF454DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2FA400-27D0-4777-AD89-9D06CF454DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89D5AA32-8FB6-4B43-B425-68AC9E48D349}
+	EndGlobalSection
+EndGlobal
